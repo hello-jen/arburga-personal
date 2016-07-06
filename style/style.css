@@ -79,6 +79,8 @@ a:hover
 .research_item
 { float: left;
   width: 100%;
+  margin-top: 5px;
+  margin-bottom: 30px;
 }
 
 ul
@@ -125,7 +127,7 @@ ol li
   text-decoration: none;}
 
 #logo h1 a:hover
-{ color: #555;
+{ color: #F14E23;
   text-decoration: none;}
 
 .slogan
@@ -225,6 +227,17 @@ ul#menu li a:hover
   margin: 0 0 6px 0; 
   padding: 0 0 4px 25px;
   line-height: 1.5em;}
+
+#content .press-item
+{ font: normal 120% 'trebuchet ms', arial, sans-serif;
+  margin:0 0 15px 0;
+  padding: 0 0 0 0;
+  background: none;
+  background-image: none;}
+
+.press-item a
+{ font: normal 150% 'trebuchet ms', arial, sans-serif;
+}
 
 #footer
 { clear: both;
