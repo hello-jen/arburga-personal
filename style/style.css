@@ -239,7 +239,11 @@ ul#menu li a:hover
 }
 
 .press-item a
-{ font: normal 130% 'trebuchet ms', arial, sans-serif;
+{ font: normal 100% 'trebuchet ms', arial, sans-serif;
+}
+
+.press-item .big
+{ font: normal 140% 'trebuchet ms', arial, sans-serif;
 }
 
 #content .publication
